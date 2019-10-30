@@ -1,0 +1,193 @@
+2019-10-30 11:46:59.658 +05:30 [Information] No database update is required.
+2019-10-30 12:50:04.630 +05:30 [Information] Get into modules controller
+2019-10-30 12:50:04.629 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:04.630 +05:30 [Information] Get into modules controller
+2019-10-30 12:50:04.644 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 12:50:04.644 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 12:50:04.678 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 12:50:04.679 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:04.679 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:04.843 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 12:50:04.843 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 12:50:04.926 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:04.927 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 12:50:04.927 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:04.927 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:05.104 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 12:50:05.163 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 12:50:05.329 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:05.331 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 12:50:05.331 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:05.331 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:06.277 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 12:50:06.285 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into modules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into modules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 12:50:40.245 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.248 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 12:50:40.249 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 12:50:40.307 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:40.307 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 12:50:40.307 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.307 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.322 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 12:50:40.750 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 12:50:40.876 +05:30 [Information] Entered into UserModules controller
+2019-10-30 12:50:40.876 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 12:50:40.876 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.876 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 12:50:40.980 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 12:50:41.011 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Get into modules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Get into modules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:01:54.856 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:01:54.859 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:01:54.859 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:01:54.872 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:01:54.878 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:01:54.979 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:01:54.979 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:01:54.979 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:01:54.979 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:01:55.008 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:01:55.617 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:01:55.726 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:01:55.726 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:01:55.727 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:01:55.727 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:01:56.016 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:01:56.020 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:13:49.125 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:13:49.125 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:13:49.125 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:13:49.125 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:13:49.144 +05:30 [Information] Get into modules controller
+2019-10-30 13:13:49.144 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:13:49.146 +05:30 [Information] Get into modules controller
+2019-10-30 13:13:49.146 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:13:49.177 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:13:49.182 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:13:49.218 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:13:49.266 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:13:49.266 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:13:49.266 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:13:49.266 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:13:49.973 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:13:50.098 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:13:50.098 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:13:50.098 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:13:50.098 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:13:50.405 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:13:50.414 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:16:43.399 +05:30 [Information] Get into modules controller
+2019-10-30 13:16:43.399 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:16:43.402 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:16:43.402 +05:30 [Information] Get into modules controller
+2019-10-30 13:16:43.402 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:16:43.404 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:16:43.405 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:16:43.405 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:16:43.405 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:16:43.407 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:16:43.459 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:16:43.462 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:16:43.462 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:16:43.462 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:16:43.462 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:16:43.967 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:16:44.082 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:16:44.082 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:16:44.082 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:16:44.082 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:16:44.337 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:16:44.343 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:17:19.636 +05:30 [Information] Get into modules controller
+2019-10-30 13:17:19.636 +05:30 [Information] Get into modules controller
+2019-10-30 13:17:19.636 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:17:19.636 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:17:19.638 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:17:19.639 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:17:19.641 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:17:19.641 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:17:19.641 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:17:19.641 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:17:19.696 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:17:19.701 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:17:19.702 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:17:19.702 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:17:19.702 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:17:20.285 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:17:20.526 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:17:20.527 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:17:20.527 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:17:20.527 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:17:20.728 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:17:20.733 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into modules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into modules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:52:26.973 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:52:26.995 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:52:27.006 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:52:27.037 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:52:27.037 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:52:27.037 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:52:27.037 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:52:27.207 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:52:27.238 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:52:27.342 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:52:27.342 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:52:27.342 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:52:27.342 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:52:27.635 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:52:27.639 +05:30 [Information] Return from GetUserModule method in UserModules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Get into modules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:58:53.483 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:58:53.485 +05:30 [Information] Get into modules controller
+2019-10-30 13:58:53.485 +05:30 [Information] Get into all module types method in modules controller
+2019-10-30 13:58:53.505 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-10-30 13:58:53.511 +05:30 [Information] Returning result from all module types method in modules controller
+2019-10-30 13:58:53.546 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-10-30 13:58:53.551 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:58:53.551 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-10-30 13:58:53.551 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:58:53.551 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:58:54.295 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-10-30 13:58:54.405 +05:30 [Information] Entered into UserModules controller
+2019-10-30 13:58:54.405 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-10-30 13:58:54.405 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-10-30 13:58:54.405 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-10-30 13:58:54.562 +05:30 [Error] Exception occured in AssistModuleHelper:GetReportTextAuthItems()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.Service.Helpers.ModuleHelper.GetTemplatePartials(TemplatePartial[] templatePartials) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.Service\Helpers\ModuleHelper.cs:line 569
+2019-10-30 13:58:54.565 +05:30 [Information] Return from GetUserModule method in UserModules controller
