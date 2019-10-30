@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AuthorizationMicroservice/Logs
+/AuthorizationMicroservice/wwwroot
+/CommentingMicroservice/Logs
+/EmailMicroservice/Logs
+/ModulesMicroservice/Logs
+/ModulesMicroservice/wwwroot
+/RadElementMicroService/Logs
+/Publish_AuthorizationService
+/.vs
+global.json
