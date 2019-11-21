@@ -1,0 +1,33 @@
+2019-11-21 12:18:05.312 +05:30 [Information] No database update is required.
+2019-11-21 12:28:21.080 +05:30 [Information] Get into modules controller
+2019-11-21 12:28:21.080 +05:30 [Information] Get into modules controller
+2019-11-21 12:28:21.077 +05:30 [Information] Entered into UserModules controller
+2019-11-21 12:28:21.103 +05:30 [Information] Get into all module types method in modules controller
+2019-11-21 12:28:21.103 +05:30 [Information] Get into all modules sub types method in modules controller
+2019-11-21 12:28:21.103 +05:30 [Information] Get into GetUserModulePermissions method in UserModules controller
+2019-11-21 12:28:21.104 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-11-21 12:28:21.104 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-11-21 12:28:21.301 +05:30 [Information] Returning result from modules sub types method in modules controller
+2019-11-21 12:28:21.301 +05:30 [Information] Returning result from all module types method in modules controller
+2019-11-21 12:28:21.395 +05:30 [Information] Entered into UserModules controller
+2019-11-21 12:28:21.397 +05:30 [Information] Get into GetUserModules method in UserModules controller
+2019-11-21 12:28:21.398 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-11-21 12:28:21.398 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-11-21 12:28:21.422 +05:30 [Information] Return from GetUserModulePermissions method in UserModules controller
+2019-11-21 12:28:21.983 +05:30 [Information] Return from GetUserModules method in UserModules controller
+2019-11-21 12:28:22.087 +05:30 [Information] Entered into UserModules controller
+2019-11-21 12:28:22.088 +05:30 [Information] Get into GetUserModule method in UserModules controller
+2019-11-21 12:28:22.089 +05:30 [Information] Get into GetUserRoles method in UserModules controller
+2019-11-21 12:28:22.089 +05:30 [Information] Return from GetUserRoles method in UserModules controller
+2019-11-21 12:28:22.384 +05:30 [Error] Got exception in GetUserModule method in UserModules controller
+2019-11-21 12:28:22.405 +05:30 [Fatal] Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Assist.Marval.API.Controllers.UserModulesController.GetUserModule(String userId, String moduleId) in D:\Projects\acr_assist_module_microservice\Acr.Assist.Marval.API\Controllers\UserModulesController.cs:line 79
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

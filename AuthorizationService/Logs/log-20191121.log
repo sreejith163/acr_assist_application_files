@@ -1,0 +1,64 @@
+2019-11-21 12:18:05.302 +05:30 [Information] No database update is required.
+2019-11-21 12:28:17.755 +05:30 [Information] Entered into UserProfileController
+2019-11-21 12:28:17.792 +05:30 [Information] Entered into GetUserProfileStatus method in UserProfileController
+2019-11-21 12:28:18.121 +05:30 [Information] Returning result from GetUserProfileStatus method in UserProfileController
+2019-11-21 12:28:18.183 +05:30 [Information] Entered into TokenController
+2019-11-21 12:28:18.213 +05:30 [Information] Entered into RequestToken method in TokenController
+2019-11-21 12:28:18.368 +05:30 [Information] Returning result from RequestToken method in TokenController
+2019-11-21 12:28:18.429 +05:30 [Information] Entered into TokenRefreshController
+2019-11-21 12:28:18.437 +05:30 [Information] Entered into RequestToken method in TokenRefreshController
+2019-11-21 12:28:18.470 +05:30 [Information] Returning result from RequestToken method in TokenRefreshController
+2019-11-21 12:28:20.379 +05:30 [Information] Entered into UserProfileController
+2019-11-21 12:28:20.387 +05:30 [Information] Returning result from GetUserBasicProfileByUserId method in UserAccountController
+2019-11-21 12:28:20.443 +05:30 [Information] Entered into UserProfileController
+2019-11-21 12:28:20.447 +05:30 [Information] Get into GetImageData method in UserProfileController controller
+2019-11-21 12:28:20.572 +05:30 [Error] Failed to get GetImageData in UserProfileController controller
+2019-11-21 12:28:20.606 +05:30 [Fatal] Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Authorization.API.Controllers.UserProfileController.GetImageData(String userId) in D:\Projects\acr_assist_authorization_microservice\Acr.Authorization.API\Controllers\UserProfileController.cs:line 169
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+2019-11-21 12:28:20.620 +05:30 [Information] Entered into UserProfileController
+2019-11-21 12:28:20.620 +05:30 [Information] Get into GetImageData method in UserProfileController controller
+2019-11-21 12:28:20.671 +05:30 [Error] Failed to get GetImageData in UserProfileController controller
+2019-11-21 12:28:20.718 +05:30 [Fatal] Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Acr.Authorization.API.Controllers.UserProfileController.GetImageData(String userId) in D:\Projects\acr_assist_authorization_microservice\Acr.Authorization.API\Controllers\UserProfileController.cs:line 169
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+2019-11-21 12:28:20.921 +05:30 [Information] Entered into UserAccountController
+2019-11-21 12:28:20.928 +05:30 [Information] Entered into CheckIsRejected method in UserAccountController
+2019-11-21 12:28:20.946 +05:30 [Information] Entered into UserAccountController
+2019-11-21 12:28:20.947 +05:30 [Information] Entered into CheckIsRejected method in UserAccountController
+2019-11-21 12:28:20.955 +05:30 [Information] Entered into UserAccountController
+2019-11-21 12:28:20.955 +05:30 [Information] Entered into CheckIsRejected method in UserAccountController
+2019-11-21 12:28:20.957 +05:30 [Information] Returning result from CheckIsRejected method in UserAccountController
+2019-11-21 12:28:20.962 +05:30 [Information] Returning result from CheckIsRejected method in UserAccountController
+2019-11-21 12:28:20.963 +05:30 [Information] Returning result from CheckIsRejected method in UserAccountController
+2019-11-21 12:28:21.155 +05:30 [Information] Entered into UserRolesController
+2019-11-21 12:28:21.156 +05:30 [Information] Entered into GetUserRoleAssignments based on userID method in UserRolesController
+2019-11-21 12:28:21.185 +05:30 [Information] Returning result from GetUserRoleAssignments based on userID method in UserRolesController
+2019-11-21 12:28:21.385 +05:30 [Information] Entered into UserAccountController
+2019-11-21 12:28:21.385 +05:30 [Information] Entered into CheckIsRejected method in UserAccountController
+2019-11-21 12:28:21.394 +05:30 [Information] Returning result from CheckIsRejected method in UserAccountController
+2019-11-21 12:28:21.433 +05:30 [Information] Entered into UserRolesController
+2019-11-21 12:28:21.433 +05:30 [Information] Entered into GetUserRoleAssignments based on userID method in UserRolesController
+2019-11-21 12:28:21.441 +05:30 [Information] Returning result from GetUserRoleAssignments based on userID method in UserRolesController
+2019-11-21 12:28:22.085 +05:30 [Information] Entered into UserAccountController
+2019-11-21 12:28:22.085 +05:30 [Information] Entered into CheckIsRejected method in UserAccountController
+2019-11-21 12:28:22.086 +05:30 [Information] Returning result from CheckIsRejected method in UserAccountController
+2019-11-21 12:28:22.102 +05:30 [Information] Entered into UserRolesController
+2019-11-21 12:28:22.102 +05:30 [Information] Entered into GetUserRoleAssignments based on userID method in UserRolesController
+2019-11-21 12:28:22.105 +05:30 [Information] Returning result from GetUserRoleAssignments based on userID method in UserRolesController
