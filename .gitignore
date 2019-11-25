@@ -8,6 +8,6 @@
 /EmailService/Logs
 /ModuleService/Logs
 /ModuleService/wwwroot
-/Publish_AuthorizationService
+/RadElementService/Logs
 /.vs
 global.json
