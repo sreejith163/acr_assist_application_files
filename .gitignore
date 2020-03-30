@@ -9,6 +9,6 @@
 /ModuleService/Logs
 /ModuleService/wwwroot
 /RadElementService/Logs
-AuditTrailMicroservice/Logs
+/AuditTrailService/Logs
 /.vs
 global.json

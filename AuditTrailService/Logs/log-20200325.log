@@ -1,0 +1,7 @@
+2020-03-25 13:48:47.424 +05:30 [Information] Entered AuditTrailController
+2020-03-25 13:48:47.468 +05:30 [Information] Get into AddAuditTrail method in AuditTrailController controller
+2020-03-25 13:48:47.737 +05:30 [Information] Returning result from AddAuditTrail method in AuditTrailController controller
+2020-03-25 13:49:03.453 +05:30 [Information] Entered AuditTrailController
+2020-03-25 13:49:03.453 +05:30 [Information] Entered AuditTrailController
+2020-03-25 13:49:03.495 +05:30 [Information] Get into GetAuditTrails method in AuditTrailController controller
+2020-03-25 13:49:03.630 +05:30 [Information] Returning result from GetAuditTrails method in AuditTrailController controller
